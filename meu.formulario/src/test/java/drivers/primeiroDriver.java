@@ -1,5 +1,9 @@
 package drivers;
 
-public class primeiroDriver {
+import org.openqa.selenium.WebDriver;
 
+public class primeiroDriver {
+	
+	public static WebDriver driver;
+	
 }
